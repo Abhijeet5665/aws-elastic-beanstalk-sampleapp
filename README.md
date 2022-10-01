@@ -61,4 +61,6 @@ Step 4: Run the Spring Boot Application.
 
 To run the application, click on the green icon as seen in the below image. 
 
-After successfully running the application you can see the console as shown in the below image. Your Tomcat server started on port 5000. 
+After successfully running the application you can see the console as shown in the below image. 
+
+Your Tomcat server started on port 5000. 
